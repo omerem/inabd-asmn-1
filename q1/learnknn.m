@@ -1,8 +1,3 @@
-
-
-## Author: lior_ <lior_@DESKTOP-RAG7FMP>
-## Created: 2019-11-16
-
 function classifier = learnknn (k, d, m, Xtrain, Ytrain)
   ## pack relevant data for predictknn
   ## first column in (1,1) stores k, next columns stores Xtrain (each row represent entity), last column stores lable for each entity (Ytrain)
