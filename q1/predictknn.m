@@ -1,8 +1,3 @@
-
-## Author: lior_ <lior_@DESKTOP-RAG7FMP>
-## Created: 2019-11-16
-
-
 function Ytestprediction = predictknn (classifier, n, Xtest)
 
 	## predict lables for unknown test set
