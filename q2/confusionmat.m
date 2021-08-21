@@ -1,7 +1,3 @@
-
-## Author: lior_ <lior_@DESKTOP-RAG7FMP>
-## Created: 2019-11-22
-
 function ret = confusionmat (a, b)
   ## a = known labels group, b = predicted labels group
   values = union(unique(a), unique(b));
